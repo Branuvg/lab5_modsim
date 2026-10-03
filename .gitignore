@@ -217,6 +217,3 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-# Lab 5: datos descargados por el notebook y llave de API
-data/
-healthsites_api_key.txt

@@ -2,9 +2,7 @@ geopandas>=1.0
 pandas
 numpy
 matplotlib
-requests
 shapely>=2.0
-rasterio
 pyproj
 scipy
 matplotlib-scalebar
