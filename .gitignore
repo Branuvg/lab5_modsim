@@ -77,6 +77,8 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+cache/
+osm_graphs/
 
 # IPython
 profile_default/
@@ -217,3 +219,6 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
+
+*.osm
+*.pbf
