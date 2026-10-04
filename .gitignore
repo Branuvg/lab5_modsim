@@ -3,6 +3,8 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+Lab5_MYS.docx
+
 # C extensions
 *.so
 
