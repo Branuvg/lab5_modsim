@@ -8,3 +8,4 @@ scipy
 matplotlib-scalebar
 ipykernel
 osmnx>=2.1,<2.2
+osmium
